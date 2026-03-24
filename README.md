@@ -16,7 +16,7 @@ This project analyzes sales performance, profitability, and customer trends usin
 
 ## 📊 Dashboard Preview
 
-![Dashboard](dashboard-preview.png)
+![Dashboard](Dashboard-Preview.png)
 
 ---
 
