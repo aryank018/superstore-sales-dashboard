@@ -1,6 +1,3 @@
-# superstore-sales-dashboard
-Sales &amp; Profit Analysis using Excel Dashboard with Business Insights
-
 # 📊 Superstore Sales Dashboard Analysis
 
 ## 🔍 Problem Statement
