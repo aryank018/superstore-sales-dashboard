@@ -61,7 +61,6 @@ This project analyzes sales performance, profitability, and customer trends usin
 
 ## 🚀 Business Recommendations
 
-* Optimize discount strategies to protect profit margins
 * Re-evaluate or improve loss-making sub-categories
 * Focus on expanding high-performing categories like Technology
 * Strengthen business strategies in underperforming regions (South)
