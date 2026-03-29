@@ -57,10 +57,6 @@ This project analyzes sales performance, profitability, and customer trends usin
 
 * New York City generates the highest sales, followed by other major urban centers.
 
-### 💸 Discount Impact
-
-* Higher discount levels are directly associated with reduced profitability, indicating inefficient pricing strategies.
-
 ---
 
 ## 🚀 Business Recommendations
